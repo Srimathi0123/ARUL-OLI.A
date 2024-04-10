@@ -4,7 +4,7 @@ Cryptography and Network Security
 ## SRIMATHI V
 ## 212221040162
 
-##Caesar Cipher
+## Caesar Cipher
 ```
 #include<stdio.h>
 #include<string.h>
@@ -164,10 +164,8 @@ scanf("%s",msg);
 
 ```
 ## OUTPUT 
-```
 ![image](https://github.com/Srimathi0123/ARUL-OLI.A/assets/118673240/85ca67a7-fc62-47a6-85d4-197f243cbdfa)
 
-```
 ## VIGENERE CIPHER
 ```
 #include <stdio.h>
